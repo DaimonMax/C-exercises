@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DeliverySystem\bin\Debug\net9.0\DeliverySystem.exe
+C:\Users\Admin\source\repos\DeliverySystem\bin\Debug\net9.0\DeliverySystem.deps.json
+C:\Users\Admin\source\repos\DeliverySystem\bin\Debug\net9.0\DeliverySystem.runtimeconfig.json
+C:\Users\Admin\source\repos\DeliverySystem\bin\Debug\net9.0\DeliverySystem.dll
+C:\Users\Admin\source\repos\DeliverySystem\bin\Debug\net9.0\DeliverySystem.pdb
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.dll
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\refint\DeliverySystem.dll
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.pdb
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\DeliverySystem.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DeliverySystem\obj\Debug\net9.0\ref\DeliverySystem.dll
